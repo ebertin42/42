@@ -1,0 +1,5 @@
+Credentials cache: API:FFEC4F4C-CCF9-4CAA-9D74-C4212348B36C
+        Principal: ebertin@42.FR
+
+  Issued                Expires               Principal
+Jul 31 18:49:10 2017  Aug  7 18:48:58 2017  krbtgt/42.FR@42.FR
